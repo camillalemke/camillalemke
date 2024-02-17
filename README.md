@@ -2,8 +2,8 @@ Hello, I am Camilla!
 
 **camillalemke/camillalemke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Analista de Crimes Cibernéticos 
-Estudante de Programação
+- Analista de Crimes Cibernéticos 
+- Estudante de Programação
 
 <div align="center">
   <a href="https://github.com/camillalemke">

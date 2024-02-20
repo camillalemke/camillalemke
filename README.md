@@ -22,7 +22,10 @@
   <div> 
   <img align="centeer" alt="Camilla-Python" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="centeer" alt="Camilla-HTML" height="60" widht="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-                                     
+  <i align="centeer" alt="Camilla-Github" height="60" widht="70"   src=<"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+
+
+                              
  </div>
 
   
